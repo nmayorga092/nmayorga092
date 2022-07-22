@@ -21,6 +21,8 @@ Nicolas@github.com: ~$ neofetch
   -+*##@@=-------%@@@@%%#+=--=@%         
        %@=--------%@-*@*------*@+        Compiling projects
        *@+--------%@.=@%-----=%@.        ---------------
-       =@*-------=@%  %@%####@@=         Portfolio: ~/Nicolas
+       =@*-------=@%  %@%####@@=         Portfolio: ~/nmayorga092
        .%@######%%-    -=====-.          
+       
+Nicolas@github.com: ~$ 
 ```
