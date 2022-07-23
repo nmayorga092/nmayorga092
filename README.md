@@ -1,16 +1,16 @@
 ```console
-Nicolas@github.com: ~$ neofetch
+nmayorga092@github.com: ~$ neofetch
 
-            -+*#%%@@%###+=:              Nicolas@github.com
+            -+*#%%@@%###+=:              nmayorga092@github.com
           +%@#*=------=+*#@%+.           ---------------
         .%@*::::::::::::::-+%@*          OS: Windows 11, Android 12.1
-        *@#::::::=*#%%%%%%%%%%#+:        Host: INACAP, Cisco Networking Acaddemy
+        *@#::::::=*#%%%%%%%%%%#+:        Host: INACAP, Cisco Networking Academy
        :@%-:::::=#%*=-::::....:-*%#.     Kernel: Telecommunications, Networking
-   .:-=#@#-:::::#%*=::::::..    .+%*     Uptime: 23 years, 8 months, 10 days
+   .:-=#@#-:::::#%*=::::::..    .+%*     Uptime: 23 years, 8 months, 11 days
  -%%#*#@@+-:::::%%+=-::::::::::::=%%     Lang: Spanish, English
  %%:::-@@=-:::::#%*=====-------==*%*     
 -@*---+@@--:::::=%%#*++=====+++*#%*.     Tools: Cisco Packet Tracer, PuTTY
-+@+---+@%--:::::::+*#%%%%%%%%%#*%%       Terminal: Bash, PowerShell, Termius
++@+---+@%--:::::::+*#%%%%%%%%%#*%%       Terminal: Bash, PowerShell
 #@+---+@%--:::::::::::::::::::::%@       IDE: VSCode 1.69.2
 %@=---+@%--:::::::::::::::::::::%@       
 @@=---+@%---::::::::::::::::::::%@       Contact:
@@ -24,5 +24,5 @@ Nicolas@github.com: ~$ neofetch
        =@*-------=@%  %@%####@@=         Portfolio: ~/nmayorga092
        .%@######%%-    -=====-.          
        
-Nicolas@github.com: ~$ 
+nmayorga092@github.com: ~$ 
 ```
