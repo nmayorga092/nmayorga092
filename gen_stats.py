@@ -22,7 +22,7 @@ with open(file, "w") as f:
                 + (' ' * (7 - len(str(stats["data"]["languages"][i]["percent"]))) if i < 7 else '')
                 + (stats["data"]["languages"][i]["text"] if i < 7 else '')
                 + (' ' * (19 - len(str(stats["data"]["languages"][i]["text"]))) if i < 7 else '')
-                + (stats["data"]["editors"][i]["name"] if i < 2 else '')
+                + (stats["data"]["editors"][i]["name"] if i < 1 else '')
                 + (' ' * (13 - len(str(stats["data"]["editors"][i]["name"]))) if i < 2 else '')
                 + (graph(stats["data"]["editors"][i]["percent"]) if i < 2 else '')
                 + ('  ' + str(stats["data"]["editors"][i]["percent"]) + "%" if i < 2 else '')
