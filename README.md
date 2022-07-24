@@ -31,5 +31,6 @@ nmayorga092@github.com: ~$
 ```
 ```console
 nmayorga092@github.com: ~$ github.stats
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ```
