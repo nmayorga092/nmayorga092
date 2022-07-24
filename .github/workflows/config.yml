@@ -18,3 +18,11 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
+          COMMIT_MESSAGE: Updated the Readme
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_PROFILE_VIEWS: False
+          SHOW_COMMIT: False
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_PROJECTS: False
