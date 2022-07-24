@@ -1,5 +1,5 @@
 ```console
-Nicolas@Github: ~$ github.stats
+nmayorga092@github.com: ~$ github.stats
 
 languages                                             editors
 ---------                                             -------

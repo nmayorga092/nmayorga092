@@ -1,10 +1,10 @@
 ```console
-Nicolas@Github: ~$ iwr -useb get.scoop.sh | iex
-Nicolas@Github: ~$ scoop install neofetch
-Nicolas@Github: ~$ 
-Nicolas@github.com: ~$ neofetch
+nmayorga092@github.com: ~$ iwr -useb get.scoop.sh | iex
+nmayorga092@github.com: ~$ scoop install neofetch
+nmayorga092@github.com: ~$ 
+nmayorga092@github.com: ~$ neofetch
 
-            -+*#%%@@%###+=:              Nicolas@Github
+            -+*#%%@@%###+=:              nmayorga092@github.com
           +%@#*=------=+*#@%+.           ---------------
         .%@*::::::::::::::-+%@*          OS: Windows 11, Android 12.1
         *@#::::::=*#%%%%%%%%%%#+:        Host: INACAP, Cisco Networking Academy
@@ -27,5 +27,5 @@ Nicolas@github.com: ~$ neofetch
        =@*-------=@%  %@%####@@=         Portfolio: ~/nmayorga092
        .%@######%%-    -=====-.          
        
-Nicolas@Github: ~$ 
+nmayorga092@github.com: ~$ 
 ```
