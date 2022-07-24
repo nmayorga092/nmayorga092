@@ -29,5 +29,7 @@ nmayorga092@github.com: ~$ neofetch
        
 nmayorga092@github.com: ~$ 
 ```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```console
+nmayorga092@github.com: ~$ github.stats
+
+```
