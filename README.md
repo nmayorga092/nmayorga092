@@ -1,16 +1,19 @@
 ```console
-nmayorga092@github.com: ~$ neofetch
+Nicolas@Github: ~$ iwr -useb get.scoop.sh | iex
+Nicolas@Github: ~$ scoop install neofetch
+Nicolas@Github: ~$ 
+Nicolas@Github: ~$ neofetch
 
-            -+*#%%@@%###+=:              nmayorga092@github.com
+            -+*#%%@@%###+=:              Nicolas@Github
           +%@#*=------=+*#@%+.           ---------------
         .%@*::::::::::::::-+%@*          OS: Windows 11, Android 12.1
         *@#::::::=*#%%%%%%%%%%#+:        Host: INACAP, Cisco Networking Academy
        :@%-:::::=#%*=-::::....:-*%#.     Kernel: Telecommunications, Networking
-   .:-=#@#-:::::#%*=::::::..    .+%*     Uptime: 23 years, 8 months, 11 days
+   .:-=#@#-:::::#%*=::::::..    .+%*     Uptime: 23 years, 8 months, 12 days
  -%%#*#@@+-:::::%%+=-::::::::::::=%%     Lang: Spanish, English
  %%:::-@@=-:::::#%*=====-------==*%*     
--@*---+@@--:::::=%%#*++=====+++*#%*.     Tools: Cisco Packet Tracer, PuTTY
-+@+---+@%--:::::::+*#%%%%%%%%%#*%%       Terminal: Bash, PowerShell
+-@*---+@@--:::::=%%#*++=====+++*#%*.     Tools: Cisco Packet Tracer, GNS3
++@+---+@%--:::::::+*#%%%%%%%%%#*%%       Terminal: Bash, PowerShell, PuTTY
 #@+---+@%--:::::::::::::::::::::%@       IDE: VSCode 1.69.2
 %@=---+@%--:::::::::::::::::::::%@       
 @@=---+@%---::::::::::::::::::::%@       Contact:
@@ -24,5 +27,5 @@ nmayorga092@github.com: ~$ neofetch
        =@*-------=@%  %@%####@@=         Portfolio: ~/nmayorga092
        .%@######%%-    -=====-.          
        
-nmayorga092@github.com: ~$ 
+Nicolas@Github: ~$ 
 ```
