@@ -27,10 +27,9 @@ nmayorga092@github.com: ~$ neofetch
        =@*-------=@%  %@%####@@=         Portfolio: ~/nmayorga092
        .%@######%%-    -=====-.          
        
-nmayorga092@github.com: ~$ 
+nmayorga092@github.com: ~$ github.stats
 ```
 ```console
-nmayorga092@github.com: ~$ github.stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ```
