@@ -29,7 +29,3 @@ nmayorga092@github.com: ~$ neofetch
        
 nmayorga092@github.com: ~$ 
 ```
-```console
-nmayorga092@github.com: ~$ github.stats
-
-```
