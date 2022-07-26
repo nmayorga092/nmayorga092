@@ -1,15 +1,15 @@
 ```console
-nmayorga092@github.com: ~$ iwr -useb get.scoop.sh | iex
-nmayorga092@github.com: ~$ scoop install neofetch
-nmayorga092@github.com: ~$ 
-nmayorga092@github.com: ~$ neofetch
+Nicolas@Github: ~$ iwr -useb get.scoop.sh | iex
+Nicolas@Github: ~$ scoop install neofetch
+Nicolas@Github: ~$ 
+Nicolas@Github: ~$ neofetch
 
-            -+*#%%@@%###+=:              nmayorga092@github.com
+            -+*#%%@@%###+=:              Nicolas@Github
           +%@#*=------=+*#@%+.           ---------------
         .%@*::::::::::::::-+%@*          OS: Windows 11, Android 12.1
         *@#::::::=*#%%%%%%%%%%#+:        Host: INACAP, Cisco Networking Academy
        :@%-:::::=#%*=-::::....:-*%#.     Kernel: Telecommunications, Networking
-   .:-=#@#-:::::#%*=::::::..    .+%*     Uptime: 23 years, 8 months, 12 days
+   .:-=#@#-:::::#%*=::::::..    .+%*     Uptime: 23 years, 8 months, 13 days
  -%%#*#@@+-:::::%%+=-::::::::::::=%%     Lang: Spanish, English
  %%:::-@@=-:::::#%*=====-------==*%*     
 -@*---+@@--:::::=%%#*++=====+++*#%*.     Tools: Cisco Packet Tracer, GNS3
@@ -27,5 +27,5 @@ nmayorga092@github.com: ~$ neofetch
        =@*-------=@%  %@%####@@=         Portfolio: ~/nmayorga092
        .%@######%%-    -=====-.          
        
-nmayorga092@github.com: ~$ 
+Nicolas@Github: ~$ 
 ```
