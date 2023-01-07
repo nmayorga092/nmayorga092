@@ -1,1 +1,1 @@
-![](https://github.com/nmayorga092/nmayorga092/blob/main/Media/miau.gif)
+<p align="center"> <img src="miau.gif"/></p>
