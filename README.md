@@ -1,1 +1,1 @@
-![](https://github.com/nmayorga092/nmayorga092/blob/main/Resources/sus.gif)
+![](https://github.com/nmayorga092/nmayorga092/blob/main/Media/banana.gif)
