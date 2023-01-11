@@ -23,4 +23,17 @@ jobs:
           COMMIT_MESSAGE: "Update Readme"
           COMMIT_USERNAME: "nmayorga092"
           COMMIT_EMAIL: "nmayorga092@proton.me"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "False"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          
           
