@@ -20,4 +20,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
           COMMIT_BY_ME: "True"
-            
+          COMMIT_MESSAGE: "Update Readme"
+          COMMIT_USERNAME: "nmayorga092"
+          COMMIT_EMAIL: "nmayorga092@proton.me"
+          
