@@ -30,5 +30,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_DAYS_OF_WEEK: "False"
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "3"
           
