@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00 GMT-3
-    - cron: '0 3 * * *'
+    # Runs at 01:00 GMT-3
+    - cron: '0 4 * * *'
 
 jobs:
   update-readme:
@@ -26,8 +26,7 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
-          #SHOW_SHORT_INFO: "False"
-          #SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE: "False"
           #SHOW_PROJECTS: "False"
           #SHOW_TIMEZONE: "False"
           #SHOW_LANGUAGE_PER_REPO: "False"
