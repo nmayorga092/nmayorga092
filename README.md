@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/miau-v2.gif" width='450px' />
 </p>
 
-<!-- Social icons -->
+<!-- Social icons: https://www.iconfinder.com/-->
 <p align="center">
   <a href="https://t.me/nmayorga"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
