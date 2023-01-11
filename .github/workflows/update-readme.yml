@@ -19,6 +19,6 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Update Readme"
+          # COMMIT_BY_ME: "True"
+          # COMMIT_MESSAGE: "Update Readme"
           
