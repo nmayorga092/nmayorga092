@@ -1,3 +1,4 @@
+<!-- Title -->
 <h2 align="center">Hello! I'm Nicolás 🛰️</h2>
 
 <!-- GIF -->
@@ -6,9 +7,7 @@
 
 <!-- GH Stats -->
 <p align="center">
-<a href="https://github.com/nmayorga092/nmayorga092">
   <img align="center" src="https://streak-stats.demolab.com?user=nmayorga092&theme=midnight-purple&border_radius=19&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
 </p>
 
 <!-- Social icons: https://www.iconfinder.com/-->
