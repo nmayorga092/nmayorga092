@@ -6,9 +6,6 @@
 </p>
 
 <!-- GH Stats -->
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=nmayorga092&theme=midnight-purple&border_radius=19&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 <!-- Social icons: https://www.iconfinder.com/-->
 <p align="center">
