@@ -2,7 +2,7 @@
 <h2 align="center">Hello! I'm Nicolás 🛰️</h2>
 
 <!-- GIF -->
-<p align="center"> <img src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/miau-v2.gif" width='492px' />
+<p align="center"> <img src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/miau-v2.gif" width='500px' />
 </p>
 
 <!-- GH Stats -->
