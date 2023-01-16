@@ -7,18 +7,6 @@
 
 <!-- Social icons: https://www.iconfinder.com/ -->
 <p align="center">
-  <a href="https://t.me/nmayorga"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/telegram-purple.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/nicoms._"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/instagram-purple.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/nmayorga092"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/twitter-purple.png"/></a>
-</p>
-
-<!-- GH Stats -->
-
-<!-- Test Zone -->
-
-<p align="center">
 <a href="https://t.me/nmayorga" target="blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/telegram-white.png">
@@ -43,3 +31,5 @@
   </picture>
 </a>
 </p>
+
+<!-- GH Stats -->
