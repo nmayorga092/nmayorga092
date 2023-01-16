@@ -18,8 +18,8 @@
 
 <!-- Test Zone -->
 
-<p align="center"><img width="32px"
-<a href="https://www.instagram.com/nicoms._"><picture>
+<p align="center">
+<a href="https://www.instagram.com/nicoms._"><picture><img width="32px"
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/instagram-white.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/instagram-black.png">
   <img alt="instagram." src="https://www.instagram.com/nicoms._">
