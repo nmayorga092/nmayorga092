@@ -20,7 +20,6 @@
 
 <p align="center">
 <picture>
-<a href="https://www.instagram.com/nicoms._">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/instagram-white.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/instagram-black.png">
   <img alt="instagram." src="https://www.instagram.com/nicoms._" width="32px"></a>
