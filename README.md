@@ -5,9 +5,7 @@
 <p align="center"> <img src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/miau-v2.gif" width='500px' />
 </p>
 
-<!-- GH Stats -->
-
-<!-- Social icons: https://www.iconfinder.com/-->
+<!-- Social icons: https://www.iconfinder.com/ -->
 <p align="center">
   <a href="https://t.me/nmayorga"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -15,3 +13,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/nmayorga092"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/twitter.png"/></a>
 </p>
+
+<!-- GH Stats -->
+
+<!-- Test Zone -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/instagram-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/socialmedia/instagram-black.png">
+  <img alt="instagram." src="https://www.instagram.com/nicoms._">
+</picture>
