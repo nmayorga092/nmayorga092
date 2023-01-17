@@ -27,12 +27,4 @@
     <img alt="twitter" width="32px">
   </picture>
 </a>
-&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://youtube.com/@nmayorga" target="blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/youtube-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nmayorga092/nmayorga092/blob/master/resources/icons/youtube-black.png">
-    <img alt="YouTube" width="32px">
-  </picture>
-</a>
 </p>
